@@ -1,4 +1,4 @@
-# Automated International SEO Audit & Reporting Pipeline (Python + Google Sheets + Looker Studio)
+# Automated SEO Audit & Reporting Pipeline (Python + Google Sheets + Looker Studio)
 
 An end-to-end technical SEO automation workflow designed to crawl, audit, prioritize, and visualize international (Japanese) SERP metadata at scale.
 
